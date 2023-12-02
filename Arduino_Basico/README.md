@@ -23,6 +23,11 @@ Despues de descargar e instalar correctamente el entorno de desarrollo de Arduin
 ![Esquematico de la practica 1](https://github.com/OscSerrano/Invernada_Robotica/blob/main/Arduino_Basico/Imagenes/CircuitoB1.png)
 ### Codigo
 ![Codigo de la practica 1](https://github.com/OscSerrano/Invernada_Robotica/blob/main/Arduino_Basico/Imagenes/CodigoB1.png)
+### Practicas relacionadas
++ Cambiar INPUT a INPUT_PULLUP
++ Contador de pulsasiones por minuto
++ Crear un flip flop
+
 ## Practica 2: Lectura analogica
 ### Materiales
 + 1 Arduino
@@ -32,6 +37,10 @@ Despues de descargar e instalar correctamente el entorno de desarrollo de Arduin
 ![Esquematico de la practica 2](https://github.com/OscSerrano/Invernada_Robotica/blob/main/Arduino_Basico/Imagenes/CircuitoB2.png)
 ### Codigo
 ![Codigo de la practica 2](https://github.com/OscSerrano/Invernada_Robotica/blob/main/Arduino_Basico/Imagenes/CodigoB2.png)
+### Practicas relacionadas
++ Obtener la lectura de voltaje del potenciometro
++ Emular la entrada de un sensor en el monitor serial
+
 ## Practica 3: Salida digital (LED parpadeante)
 ### Materiales
 + 1 Arduino
@@ -42,6 +51,11 @@ Despues de descargar e instalar correctamente el entorno de desarrollo de Arduin
 ![Esquematico de la practica 3](https://github.com/OscSerrano/Invernada_Robotica/blob/main/Arduino_Basico/Imagenes/CircuitoB3.png)
 ### Codigo
 ![Codigo de la practica 3](https://github.com/OscSerrano/Invernada_Robotica/blob/main/Arduino_Basico/Imagenes/CodigoB3.png)
+### Practicas relacionadas
++ Controlar el parpadeo con la entrada digital
++ Controlar el parpadeo con la entrada analogica
++ Hacer que el parpadeo sea codigo morse (o alguna otra secuencia con más leds)
+
 ## Practica 4: Salida analogica (LED desvaneciente)
 ### Materiales
 + 1 Arduino
@@ -52,4 +66,14 @@ Despues de descargar e instalar correctamente el entorno de desarrollo de Arduin
 ![Esquematico de la practica 4](https://github.com/OscSerrano/Invernada_Robotica/blob/main/Arduino_Basico/Imagenes/CircuitoB4.png)
 ### Codigo
 ![Codigo de la practica 4](https://github.com/OscSerrano/Invernada_Robotica/blob/main/Arduino_Basico/Imagenes/CodigoB4.png)
+### Practicas relacionadas
++ Controlar el brillo del led con la entrada analogica
++ Crear una secuencia de leds desvanecientes
++ Crear luces navideñas con varias secuencias guardadas
+
+## Practicas adicionales de desafio
++ Crear un contador binario
++ Crear un semaforo
++ Crear un juego de memoria estilo Simon
+
 
