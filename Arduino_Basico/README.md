@@ -54,7 +54,7 @@ Despues de descargar e instalar correctamente el entorno de desarrollo de Arduin
 ### Practicas relacionadas
 + Controlar el parpadeo con la entrada digital
 + Controlar el parpadeo con la entrada analogica
-+ Hacer que el parpadeo sea codigo morse (o alguna otra secuencia con más leds)
++ Cambiar el LED por un buzzer
 
 ## Practica 4: Salida analogica (LED desvaneciente)
 ### Materiales
@@ -69,11 +69,13 @@ Despues de descargar e instalar correctamente el entorno de desarrollo de Arduin
 ### Practicas relacionadas
 + Controlar el brillo del led con la entrada analogica
 + Crear una secuencia de leds desvanecientes
-+ Crear luces navideñas con varias secuencias guardadas
++ Utilizar un buzzer para hacer un sonido desvaneciente
 
 ## Practicas adicionales de desafio
 + Crear un contador binario
 + Crear un semaforo
++ Crear luces navideñas con varias secuencias guardadas
++ Hacer que el Arduino reconozca o reproduzca codigo morse
 + Crear un juego de memoria estilo Simon
 
 
