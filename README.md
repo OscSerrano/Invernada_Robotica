@@ -8,7 +8,7 @@ A lo largo de este track veremos una introduccion a la robotica, esto mediante l
 + ~3 dias para ver [Arduino_Basico](/Arduino_Basico)
 + ~3 dias para ver [Arduino_Avanzado](/Arduino_Avanzado)
 + Si los participantes tienen componenetes o ideas a parte de las presentadas, podemos verlas en este punto
-+ Si hay tiempo me gustaria mostrar micropython y otros controladores
++ Con el tiempo sobrante me gustaria mostrar micropython y otros controladores
 
 ## Material de apoyo
 + [Controladores](/Tipos%20de%20controladores.pdf)
