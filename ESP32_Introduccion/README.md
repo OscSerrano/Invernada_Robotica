@@ -31,6 +31,17 @@ Entorno de desarrollo profesional para Embebidos, IoT, Arduino, CMSIS, ESP-IDF, 
 ![Screenshot menu de PlatformIO](https://github.com/OscSerrano/Invernada_Robotica/blob/main/ESP32_Introduccion/Imagenes/ESP32P4.png)
 
 
+## Arduino IDE
+### Descripcion
+Como ya vimos en la seccion [Arduino_Basico](https://github.com/OscSerrano/Invernada_Robotica/tree/main/Arduino_Basico), el IDE de Arduino tiene la capacidad de utilizar controladores de otros proveedores.
+### Configurar para ESP32
+1. Tras abrir el IDE de Arduino, lo primero que se debe hacer es abrir el manejador de placas disponibles en el IDE, para ello debemos hacer clic en "Tools -> Board -> Board Manager..."
+![Screenshot menu de PlatformIO](https://github.com/OscSerrano/Invernada_Robotica/blob/main/ESP32_Introduccion/Imagenes/ESP32A1.png)
+2. En la pestaña que se abrio, debemos buscar el paquete de esp32 de Espressif Systems e instalarlo.
+![Screenshot menu de PlatformIO](https://github.com/OscSerrano/Invernada_Robotica/blob/main/ESP32_Introduccion/Imagenes/ESP32A2.png)
+3. De estar utilizando el ESP32-S3 con un display TFT de lilygo debemos seleccionar la tarjeta tal y como lo hariamos al seleccionar el modelo de nuestro Arduino, pero ahora con la nueva opcion que nos dio el paso anterior para seleccionar tarjetas ESP. De estar usando otro modelo, solo hay que seleccionarlo.
+![Screenshot menu de PlatformIO](https://github.com/OscSerrano/Invernada_Robotica/blob/main/ESP32_Introduccion/Imagenes/ESP32A3.png)
+
 
 
 
