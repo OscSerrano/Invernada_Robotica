@@ -71,6 +71,23 @@ Despues de descargar e instalar correctamente el entorno de desarrollo de Arduin
 + Crear una secuencia de leds desvanecientes
 + Utilizar un buzzer para hacer un sonido desvaneciente
 
+## Practica 5: Interrupciones externas
+### Materiales
++ 1 Arduino
++ 1 Breadboard
++ 1 Foco LED
++ 1 Boton
++ 1 Resistencia de 220 ohms
++ 1 resistencia de 10k ohms
+### Circuito
+![Esquematico de la practica 5](https://github.com/OscSerrano/Invernada_Robotica/blob/main/Arduino_Basico/Imagenes/CircuitoB5.jpg)
+### Codigo
+![Codigo de la practica 5](https://github.com/OscSerrano/Invernada_Robotica/blob/main/Arduino_Basico/Imagenes/CodigoB5.png)
+### Practicas relacionadas
++ Hacer que ahora la interrupcion incremente el contador mientras parpadea un led
++ Utilizar interrupciones para ver cuanto tiempo se mantiene presionado un boton
++ Emular un paro de emergencia con la interrupcion
+
 ## Practicas adicionales de desafio
 + Crear un contador binario
 + Crear un semaforo
