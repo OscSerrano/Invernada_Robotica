@@ -39,9 +39,10 @@ Como ya vimos en la seccion [Arduino_Basico](https://github.com/OscSerrano/Inver
 ![Screenshot menu de PlatformIO](https://github.com/OscSerrano/Invernada_Robotica/blob/main/ESP32_Introduccion/Imagenes/ESP32A1.png)
 2. En la pestaña que se abrio, debemos buscar el paquete de esp32 de Espressif Systems e instalarlo.
 ![Screenshot menu de PlatformIO](https://github.com/OscSerrano/Invernada_Robotica/blob/main/ESP32_Introduccion/Imagenes/ESP32A2.png)
-3. De estar utilizando el ESP32-S3 con un display TFT de lilygo debemos seleccionar la tarjeta tal y como lo hariamos al seleccionar el modelo de nuestro Arduino, pero ahora con la nueva opcion que nos dio el paso anterior para seleccionar tarjetas ESP. De estar usando otro modelo, solo hay que seleccionarlo.
+3. De estar utilizando el ESP32-S3 con un display TFT de lilygo debemos seleccionar la tarjeta tal y como lo hariamos al seleccionar el modelo de nuestro Arduino, pero ahora con la nueva opcion que nos dio el paso anterior para seleccionar tarjetas ESP. Tambien, si queremos utilizar el display, debemos de buscar la libreria en el manejador de librerias del IDE.
 ![Screenshot menu de PlatformIO](https://github.com/OscSerrano/Invernada_Robotica/blob/main/ESP32_Introduccion/Imagenes/ESP32A3.png)
-
+De estar usando otro modelo, solo hay que seleccionarlo en el manejador de placas.
+Y de estar utilizando otros sensores o displays, debemos buscar la libreria que nos facilite el trabajo en el manejador de librerias.
 
 
 
