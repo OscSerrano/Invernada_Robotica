@@ -2,6 +2,31 @@
 Entenderemos esta seccion "avanzada", como el punto en el cual empezaremos a experimentar con diferentes sensores y actuadores a los vistos en la carpeta básica, sin embargo, como se pueden ver en los documentos de apoyo [Sensores](/Tipos%20de%20sensores.pdf), [Visualizadores](/Tipos%20de%20visualizadores.pdf) y [Actuadores](/Tipos%20de%20actuadores.pdf), podemos ver que existen demasiadas opciones y combinaciones disponibles y poco tiempo para verlo todo, a su vez, podemos no contar con todo el material descrito en esos documentos, por lo cual mantendre esta carpeta de practicas como un apoyo más que como una guia, de esa manera podremos ajustarnos segun el material que juntemos entre todos los participantes, asi como de los intereses de cada uno. 
 
 # Manual de practicas avanzadas
+## Practica: Multitarea 
+### Materiales
++ 1 Arduino
++ 2 Potenciometros
++ 1 Foco LED
++ 1 Resistencia de 220 ohms
+### Circuito
+![Esquematico de la practica](https://github.com/OscSerrano/Invernada_Robotica/blob/main/Arduino_Avanzado/Imagenes/CircuitoA4.png)
+### Codigo
+![Codigo de la practica](https://github.com/OscSerrano/Invernada_Robotica/blob/main/Arduino_Avanzado/Imagenes/CodigoA4.png)
+### Practicas relacionadas
++ mmmmm no se
+
+## Practica: Pantalla LCD 
+### Materiales
++ 1 Arduino
++ Pantalla LCD
+Lo de abajo depende de si tiene o no modulo I2C mmmmmm
+### Circuito
+![Esquematico de la practica](https://github.com/OscSerrano/Invernada_Robotica/blob/main/Arduino_Avanzado/Imagenes/CircuitoA5.png)
+### Codigo
+![Codigo de la practica](https://github.com/OscSerrano/Invernada_Robotica/blob/main/Arduino_Avanzado/Imagenes/CodigoA5.png)
+### Practicas relacionadas
++ mmmmm no se
+
 ## Practica: Servomotor
 ### Materiales
 + 1 Arduino
